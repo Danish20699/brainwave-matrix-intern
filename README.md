@@ -3,10 +3,10 @@
 A brief description of your project.
 
 ## Project Screenshot
-![Project Screenshot](images/project-screenshot.png)
+
 <p align="center">
   <a href="" rel="noopener">
- <img width=1000px height=200px src="project-screenshot.png" alt="Projec Screenshot"></a>
+ <img width=1000px height=200px src=">images/project-screenshot.png</a>
 </p>
 
 ## Features
