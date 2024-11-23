@@ -1,13 +1,12 @@
 "# Brainwave_Matrix_Intern-" 
 # Project Title
-A brief description of your project.
+A Simple To-Do App using Html,CSS and Javascript
+A brief description of your project.This is a simple **To-Do List app** built with HTML, CSS, and JavaScript. It allows users to add, mark, and delete tasks, helping them stay organized and manage their daily activities. The app has a clean, user-friendly interface and is fully responsive, meaning it works well on both desktop and mobile devices.
 
 ## Project Screenshot
+![Project Screenshot](images/project-screenshot.png)
 
-<p align="center">
-  <a href="" rel="noopener">
- <img width=1000px height=200px src=">images/project-screenshot.png</a>
-</p>
+
 
 ## Features
 - **Add Tasks**: Easily add new tasks to your to-do list.
